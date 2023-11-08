@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-introductory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^5.12.9",
+    "react-helmet": "^6.1.0"
+  },
+  "description": ""
+}
